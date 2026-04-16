@@ -11,9 +11,6 @@ statistical models. This project demonstrates how **Artificial Neural
 Networks (ANNs)** can learn complex relationships in financial data to
 produce more accurate and scalable credit risk predictions.
 
-The system was developed as part of **CIS 583: Deep Learning at the
-University of Michigan--Dearborn**.
-
 ------------------------------------------------------------------------
 
 ## Problem Statement
